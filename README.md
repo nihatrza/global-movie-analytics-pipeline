@@ -11,11 +11,11 @@
 ![Google BigQuery](https://img.shields.io/badge/Google%20BigQuery-DWH-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C94C?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-Containerized-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Oracle Cloud](https://img.shields.io/badge/OCI-Infrastructure-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+[![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud_Infrastructure-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://www.oracle.com/cloud/)
 ![Pandas](https://img.shields.io/badge/Pandas-Transform-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-Analytics-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-![Status](https://img.shields.io/badge/status-active%20%7C%20production-success?style=flat-square)
+
 ![Dataset Coverage](https://img.shields.io/badge/years-2000%20--%202026-blue?style=flat-square)
 
 [Overview](#-overview) •
@@ -276,7 +276,7 @@ The Power BI platform delivers an executive **3-page interactive decision suppor
 
 ### 📄 Page 3 · Financial Drill-Down Ledger
 
-![Dashboard Page 3 – Financials](power_bi/dashboard_screenshots/page3_financial_ledger.png)
+![Dashboard Page 3 – Financials](power_bi/dashboard_screenshots/page3_financial_drilldown.png)
 
 - **Portfolio Outcome:** Donut chart breakdown of **73.36% Profitable** vs. **26.64% Loss-making** commercial releases.
 - **Top Financial Performers:** Visual highlight of all-time box-office records (*Avatar* - $2.7B profit, *Avengers: Endgame* - $2.6B profit).
@@ -521,5 +521,5 @@ Thumbs.db
 
 Developed as an enterprise-grade **Data Engineering & Business Intelligence portfolio project** demonstrating proficiency in Python ETL, Cloud Data Warehousing (BigQuery), Apache Airflow orchestration, SQL analytics, and Power BI visualization.
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nihatrzaguluzada)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nihatrza)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nihat-rzaguluzada/)
